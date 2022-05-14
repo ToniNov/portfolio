@@ -10,7 +10,7 @@ const Project = (props) => {
                 <a className={style.button}>Look</a>
             </div>
             <div className={style.projectInfo}>
-                <h3 className={style.projectName}>{props.projectName}</h3>
+                <h3 className={style.projectTitle}>{props.projectName}</h3>
                 <span className={style.description}>
                 {props.description}
             </span>

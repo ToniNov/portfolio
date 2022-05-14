@@ -1,0 +1,24 @@
+.projectsBlock {
+    min-height: 50vh;
+    background-color: #c0df9c;
+}
+
+.contactsContainer {
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    background-color: #38e923
+}
+
+.el {
+    width: 280px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    align-content: center;
+}
+
+
